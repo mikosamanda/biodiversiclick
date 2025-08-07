@@ -1,0 +1,10 @@
+numpy
+Pillow
+rembg
+st_social_media_links
+streamlit-image-comparison
+streamlit_cropper
+requests
+streamlit
+onnxruntime
+streamlit_image_comparison
